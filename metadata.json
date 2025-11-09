@@ -1,0 +1,5 @@
+{
+  "name": "College Canteen Ordering",
+  "description": "A fully functional, front-end only college canteen ordering website. Browse menus from different canteens, add items to your cart, checkout, and view your order history. All data is persisted in your browser's local storage.",
+  "requestFramePermissions": []
+}
