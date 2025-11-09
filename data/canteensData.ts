@@ -5,7 +5,7 @@ export const canteensData: Canteen[] = [
     id: 'canteen-1',
     name: 'Main Canteen',
     description: 'The central hub for all your cravings, from hearty meals to quick snacks.',
-    image: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=1974&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&auto=format&fit=crop',
     menu: [
       {
         id: 'm1-item-1',
@@ -14,7 +14,7 @@ export const canteensData: Canteen[] = [
         price: 80,
         category: 'Main Course',
         isVeg: true,
-        image: 'https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=1974&auto=format&fit=crop',
+        image: 'https://images.unsplash.com/photo-1585937421612-70a008356fbe?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80',
       },
       {
         id: 'm1-item-2',
@@ -23,7 +23,7 @@ export const canteensData: Canteen[] = [
         price: 15,
         category: 'Snacks',
         isVeg: true,
-        image: 'https://images.unsplash.com/photo-1601050690597-df0568f70b50?q=80&w=2070&auto=format&fit=crop',
+        image: 'https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/samosa-recipe-500x375.jpg',
       },
       {
         id: 'm1-item-3',
@@ -32,7 +32,7 @@ export const canteensData: Canteen[] = [
         price: 120,
         category: 'Main Course',
         isVeg: false,
-        image: 'https://images.unsplash.com/photo-1631515243349-e0cb75fb8da7?q=80&w=2070&auto=format&fit=crop',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPcdlgGqTXb-qtbAK_WgscTy2TimgPjzn9fw&s',
       },
       {
         id: 'm1-item-4',
@@ -41,7 +41,7 @@ export const canteensData: Canteen[] = [
         price: 20,
         category: 'Beverages',
         isVeg: true,
-        image: 'https://images.unsplash.com/photo-1594583424843-c42d31558572?q=80&w=1974&auto=format&fit=crop',
+        image: 'https://www.funfoodfrolic.com/wp-content/uploads/2019/11/Chai-Masala-2.jpg',
       },
       {
         id: 'm1-item-5',
@@ -50,7 +50,7 @@ export const canteensData: Canteen[] = [
         price: 30,
         category: 'Desserts',
         isVeg: true,
-        image: 'https://images.unsplash.com/photo-1671987258902-1b15a13341c3?q=80&w=2070&auto=format&fit=crop',
+        image: 'https://sharmanjainsweets.com/cdn/shop/articles/Untitled_design_eb07557c-e535-4bdf-9063-8a1f1cffa58c.png?v=1751535882',
       }
     ],
   },
@@ -58,7 +58,7 @@ export const canteensData: Canteen[] = [
     id: 'canteen-2',
     name: 'Hostel Canteen',
     description: 'Home-style food perfect for hostelites. Open till late.',
-    image: 'https://images.unsplash.com/photo-1596236279128-b8075f6dad44?q=80&w=1974&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1556911220-bff31c812dba?w=800&auto=format&fit=crop',
     menu: [
       {
         id: 'h2-item-1',
@@ -67,7 +67,7 @@ export const canteensData: Canteen[] = [
         price: 50,
         category: 'Main Course',
         isVeg: true,
-        image: 'https://images.unsplash.com/photo-1663945233979-9f4a0b73145c?q=80&w=1974&auto=format&fit=crop',
+        image: 'https://www.kingarthurbaking.com/sites/default/files/2025-07/Aloo-Paratha-_2025_Lifestyle_H_2435.jpg',
       },
       {
         id: 'h2-item-2',
@@ -76,7 +76,7 @@ export const canteensData: Canteen[] = [
         price: 45,
         category: 'Main Course',
         isVeg: false,
-        image: 'https://images.unsplash.com/photo-1626202157962-ab1d30562ab5?q=80&w=2070&auto=format&fit=crop',
+        image: 'https://www.whiskaffair.com/wp-content/uploads/2020/07/Egg-Bhurji-2-3.jpg',
       },
       {
         id: 'h2-item-3',
@@ -85,7 +85,7 @@ export const canteensData: Canteen[] = [
         price: 40,
         category: 'Main Course',
         isVeg: true,
-        image: 'https://plus.unsplash.com/premium_photo-1695297514169-705a6d53855a?q=80&w=2070&auto=format&fit=crop',
+        image: 'https://www.chefkunalkapur.com/wp-content/uploads/2023/05/DSC09411-1300x731.jpg?v=1684031938',
       },
     ],
   },
@@ -93,7 +93,7 @@ export const canteensData: Canteen[] = [
     id: 'canteen-3',
     name: 'Food Court',
     description: 'A variety of options to choose from. Sandwiches, rolls, and more.',
-    image: 'https://images.unsplash.com/photo-1550507992-eb63ffee0847?q=80&w=2070&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&auto=format&fit=crop',
     menu: [
       {
         id: 'fc3-item-1',
@@ -102,7 +102,7 @@ export const canteensData: Canteen[] = [
         price: 35,
         category: 'Snacks',
         isVeg: true,
-        image: 'https://images.unsplash.com/photo-1528735602780-2552fd46c7af?q=80&w=2073&auto=format&fit=crop',
+        image: 'https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=600&auto=format&fit=crop',
       },
       {
         id: 'fc3-item-2',
@@ -111,7 +111,7 @@ export const canteensData: Canteen[] = [
         price: 50,
         category: 'Snacks',
         isVeg: true,
-        image: 'https://images.unsplash.com/photo-1625220194771-7ebdea0d30c7?q=80&w=1974&auto=format&fit=crop',
+        image: 'https://spicecravings.com/wp-content/uploads/2020/12/Paneer-kathi-Roll-Featured-1.jpg',
       },
        {
         id: 'fc3-item-3',
@@ -120,7 +120,7 @@ export const canteensData: Canteen[] = [
         price: 70,
         category: 'Snacks',
         isVeg: false,
-        image: 'https://images.unsplash.com/photo-1571091718767-18b5b1457add?q=80&w=2072&auto=format&fit=crop',
+        image: 'https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=600&auto=format&fit=crop',
       },
     ],
   },
@@ -128,7 +128,7 @@ export const canteensData: Canteen[] = [
     id: 'canteen-4',
     name: 'Juice Corner',
     description: 'Fresh juices, shakes, and healthy snacks to keep you refreshed.',
-    image: 'https://images.unsplash.com/photo-1502741224143-943863842341?q=80&w=2070&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=800&auto=format&fit=crop',
     menu: [
       {
         id: 'jc4-item-1',
@@ -137,7 +137,7 @@ export const canteensData: Canteen[] = [
         price: 40,
         category: 'Beverages',
         isVeg: true,
-        image: 'https://images.unsplash.com/photo-1525385133512-2f3bdd039054?q=80&w=1974&auto=format&fit=crop',
+        image: 'https://www.rebootwithjoe.com/wp-content/uploads/2012/05/watermelon-pineapple-juice.jpg',
       },
       {
         id: 'jc4-item-2',
@@ -146,7 +146,7 @@ export const canteensData: Canteen[] = [
         price: 60,
         category: 'Snacks',
         isVeg: true,
-        image: 'https://images.unsplash.com/photo-1564149504298-03c271fd5072?q=80&w=1964&auto=format&fit=crop',
+        image: 'https://cdn.loveandlemons.com/wp-content/uploads/2025/06/fruit-salad.jpg',
       },
       {
         id: 'jc4-item-3',
@@ -155,7 +155,7 @@ export const canteensData: Canteen[] = [
         price: 70,
         category: 'Beverages',
         isVeg: true,
-        image: 'https://images.unsplash.com/photo-1624827299108-a960301a23e9?q=80&w=1964&auto=format&fit=crop',
+        image: 'https://static.toiimg.com/thumb/84170265.cms?imgsize=299797&width=800&height=800',
       },
     ],
   },
@@ -163,7 +163,7 @@ export const canteensData: Canteen[] = [
     id: 'canteen-5',
     name: 'Night Canteen',
     description: 'Serving your midnight cravings. Open from 9 PM to 2 AM.',
-    image: 'https://images.unsplash.com/photo-1579027989536-b7b1f87564ab?q=80&w=1974&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=800&auto=format&fit=crop',
     menu: [
       {
         id: 'nc5-item-1',
@@ -172,7 +172,7 @@ export const canteensData: Canteen[] = [
         price: 40,
         category: 'Snacks',
         isVeg: true,
-        image: 'https://images.unsplash.com/photo-1626810298014-2f765c8531b4?q=80&w=2070&auto=format&fit=crop',
+        image: 'https://www.nestleprofessional.in/sites/default/files/2022-08/MAGGI-Noodles-Szechuan-Paneer-756x471.jpg',
       },
       {
         id: 'nc5-item-2',
@@ -181,7 +181,7 @@ export const canteensData: Canteen[] = [
         price: 35,
         category: 'Snacks',
         isVeg: false,
-        image: 'https://images.unsplash.com/photo-1592120016157-12c8a2414781?q=80&w=1935&auto=format&fit=crop',
+        image: 'https://food.fnr.sndimg.com/content/dam/images/food/fullset/2020/02/10/0/FNK_One-Pan-Egg-Cheese-Omelet-Sandwich_H1_s4x3.jpg.rend.hgtvcom.1280.720.suffix/1581344859765.webp',
       },
       {
         id: 'nc5-item-3',
@@ -190,7 +190,7 @@ export const canteensData: Canteen[] = [
         price: 25,
         category: 'Beverages',
         isVeg: true,
-        image: 'https://images.unsplash.com/photo-1563514214457-4a113543b55a?q=80&w=1974&auto=format&fit=crop',
+        image: 'https://media.istockphoto.com/id/1426308134/photo/south-indian-filter-coffee-served-in-a-traditional-tumbler-or-cup-over-roasted-raw-beans.jpg?s=612x612&w=0&k=20&c=0_pG57x7SK2y8hEBpcMvUrmBLtkwwWfdKDD4p4BZqhk=',
       },
     ]
   }
